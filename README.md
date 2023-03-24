@@ -16,7 +16,7 @@ Segundo projeto dos desafios semanais, o #boracodar é um espaço para mostrar n
 
 Esse projeto foi desenvolvido utilizando:
 
-- Reactjs
+- ReactJS
 - HTML
 - JavaScript
 - CSS
